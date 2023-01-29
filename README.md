@@ -1,4 +1,4 @@
-# IBM-HR-Analytics-Employee-Attrition-Prediction
+# Kaggle: IBM-Employee-Attrition-Classification
 This is a Kaggle machine learning project. 
 
 Private Leaderboard Rank: Top 25% (tied-35/146). F1 score: 0.75
